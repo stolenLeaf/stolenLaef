@@ -22,5 +22,6 @@ I believe in share my knowloge with good vives, leadership and a good team manag
 ## 📊 Stats
 
 ![Snake ](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=stolenLeaf&show_icons=true&theme=github_dark&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=stolenLeaf&theme=github-dark-blue&hide_border=true&border_radius=15&mode=weekly)](https://git.io/streak-stats)
 
