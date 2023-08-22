@@ -13,7 +13,9 @@ I believe in share my knowloge with good vives, leadership and a good team manag
       <a href="https://github.com/stolenLaef?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/carlosgrillet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
- ---
 
 ## Tools ans languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,javascript,typescript,nodejs,react,vite,dotnet,regex,git,github,nginx,docker,kubernetes,jenkins,ansible,linux,neovim,vscode,discord,stackoverflow,ai&perline=8)](https://skillicons.dev) 
+
 
