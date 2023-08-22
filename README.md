@@ -17,6 +17,6 @@ I believe in share my knowloge with good vives, leadership and a good team manag
 
 ## Tools ans languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,javascript,typescript,nodejs,react,vite,dotnet,regex,git,github,nginx,docker,kubernetes,jenkins,ansible,linux,neovim,vscode,discord,stackoverflow,ai&perline=8)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,javascript,typescript,nodejs,react,vite,dotnet,regex,git,github,nginx,docker,jenkins,linux,neovim,vscode,discord,androidstudio,apollo,arduino,figma,graphql,kotlin,linkedin,mongodb,nestjs,nextjs,postgres,react,)](https://skillicons.dev) 
 
 
