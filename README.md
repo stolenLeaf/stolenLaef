@@ -1,6 +1,3 @@
-# stolenLaef
-this is my personal repo for README
-
 # GABRIEL ARGUELLO
 
 I'm a Electronic engineer, fullstack web developer specialized on backend using tools like nestjs, express, .net c#, java and kotlin, my main languages are javascript, python, c#, 
