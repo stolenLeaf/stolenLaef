@@ -2,7 +2,7 @@
 
 I'm a Electronic engineer, fullstack web developer specialized on backend using tools like nestjs, express, .net c#, java and kotlin, my main languages are javascript, python, c#, 
 kotlin and C for arduino. I've been working as a web developer since 2019, knowing all the basics with PHP, later i tried moving to the industrial automatization with SIEMENS PLC, at the beggining of 2021 
-i decided return to web developing, i learnt frameworks like nestjs for backend and nextjs for frontend, currently i have 5 years experience as a web developer and +7 years in high leven a low level programing.
+i decided return to web developing, i learnt frameworks like nestjs for backend and nextjs for frontend, currently i have 5 years experience as a web developer and +7 years in high level aand low level programing.
 I like to keep learning things to improve my skill, right now i'm doing a CCNA CISCO certification and in the near future a will acomplished my goal of being an amazon machine learning specialist.
 I believe in share my knowloge with good vives, leadership and a good team management.
 
